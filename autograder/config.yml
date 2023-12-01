@@ -1,0 +1,4 @@
+limit_submissions: -1
+required_files: 
+  - minimum_sum_squared_count.h
+  - count_empty_cells.h
